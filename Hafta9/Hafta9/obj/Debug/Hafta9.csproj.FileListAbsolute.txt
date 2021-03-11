@@ -1,0 +1,26 @@
+C:\Users\ufukcelik\source\repos\Hafta9\Hafta9\bin\Debug\Veritaban_log.ldf
+C:\Users\ufukcelik\source\repos\Hafta9\Hafta9\bin\Debug\Veritaban.mdf
+C:\Users\ufukcelik\source\repos\Hafta9\Hafta9\bin\Debug\Hafta9.exe.config
+C:\Users\ufukcelik\source\repos\Hafta9\Hafta9\bin\Debug\Hafta9.exe
+C:\Users\ufukcelik\source\repos\Hafta9\Hafta9\bin\Debug\Hafta9.pdb
+C:\Users\ufukcelik\source\repos\Hafta9\Hafta9\obj\Debug\Hafta9.Properties.Resources.resources
+C:\Users\ufukcelik\source\repos\Hafta9\Hafta9\obj\Debug\Hafta9.csproj.GenerateResource.cache
+C:\Users\ufukcelik\source\repos\Hafta9\Hafta9\obj\Debug\Hafta9.csproj.CoreCompileInputs.cache
+C:\Users\ufukcelik\source\repos\Hafta9\Hafta9\obj\Debug\Hafta9.exe
+C:\Users\ufukcelik\source\repos\Hafta9\Hafta9\obj\Debug\Hafta9.pdb
+C:\Users\ufukcelik\source\repos\Hafta9\Hafta9\obj\Debug\Hafta9.FormAnasayfa.resources
+C:\Users\ufukcelik\source\repos\Hafta9\Hafta9\obj\Debug\Hafta9.csprojAssemblyReference.cache
+C:\Users\ufukcelik\source\repos\Hafta9\Hafta9\obj\Debug\Hafta9.Form1.resources
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta9\Hafta9\bin\Debug\Veritaban_log.ldf
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta9\Hafta9\bin\Debug\Veritaban.mdf
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta9\Hafta9\bin\Debug\Hafta9.exe.config
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta9\Hafta9\bin\Debug\Hafta9.exe
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta9\Hafta9\bin\Debug\Hafta9.pdb
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta9\Hafta9\obj\Debug\Hafta9.csprojAssemblyReference.cache
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta9\Hafta9\obj\Debug\Hafta9.Form1.resources
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta9\Hafta9\obj\Debug\Hafta9.FormAnasayfa.resources
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta9\Hafta9\obj\Debug\Hafta9.Properties.Resources.resources
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta9\Hafta9\obj\Debug\Hafta9.csproj.GenerateResource.cache
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta9\Hafta9\obj\Debug\Hafta9.csproj.CoreCompileInputs.cache
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta9\Hafta9\obj\Debug\Hafta9.exe
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta9\Hafta9\obj\Debug\Hafta9.pdb
