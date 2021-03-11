@@ -1,0 +1,27 @@
+﻿<Window x:Class="Hafta13.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hafta13"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Rectangle HorizontalAlignment="Left" Height="160.866" Margin="168.09,78.997,0,0" Stroke="Black" VerticalAlignment="Top" Width="169.595">
+            <Rectangle.Effect>
+                <BlurEffect Radius="10"/>
+            </Rectangle.Effect>
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="elma.jpg" Stretch="UniformToFill"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <TextBox x:Name="textBox" HorizontalAlignment="Center" Height="91.032" TextWrapping="Wrap" Text="WPF Örneği" Width="298.039" Background="#FF2EB620" Foreground="#FFFDFDFD" FontFamily="Arial Black" FontSize="24" VerticalAlignment="Center" TextAlignment="Center" FontWeight="Bold" Opacity="0.5" Margin="112.302,170.219,381.659,157.749">
+            <TextBox.Effect>
+                <DropShadowEffect/>
+            </TextBox.Effect>
+        </TextBox>
+        <DatePicker HorizontalAlignment="Left" Margin="476.103,62.047,0,0" VerticalAlignment="Top" Height="27.741" Width="195.167"/>
+        <Calendar HorizontalAlignment="Left" Margin="603,241.033,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
