@@ -1,0 +1,10 @@
+C:\Users\ucelik\Documents\GorselProgramlama\2_O\Hafta1\Hafta1\bin\Debug\Hafta1.exe.config
+C:\Users\ucelik\Documents\GorselProgramlama\2_O\Hafta1\Hafta1\bin\Debug\Hafta1.exe
+C:\Users\ucelik\Documents\GorselProgramlama\2_O\Hafta1\Hafta1\bin\Debug\Hafta1.pdb
+C:\Users\ucelik\Documents\GorselProgramlama\2_O\Hafta1\Hafta1\obj\Debug\Hafta1.csprojResolveAssemblyReference.cache
+C:\Users\ucelik\Documents\GorselProgramlama\2_O\Hafta1\Hafta1\obj\Debug\Hafta1.Form1.resources
+C:\Users\ucelik\Documents\GorselProgramlama\2_O\Hafta1\Hafta1\obj\Debug\Hafta1.Properties.Resources.resources
+C:\Users\ucelik\Documents\GorselProgramlama\2_O\Hafta1\Hafta1\obj\Debug\Hafta1.csproj.GenerateResource.Cache
+C:\Users\ucelik\Documents\GorselProgramlama\2_O\Hafta1\Hafta1\obj\Debug\Hafta1.exe
+C:\Users\ucelik\Documents\GorselProgramlama\2_O\Hafta1\Hafta1\obj\Debug\Hafta1.pdb
+C:\Users\ucelik\Documents\GorselProgramlama\2_O\Hafta1\Hafta1\obj\Debug\Hafta1.Form2.resources
