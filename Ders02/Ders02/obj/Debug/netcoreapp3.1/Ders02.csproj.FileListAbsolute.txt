@@ -1,0 +1,15 @@
+C:\Users\ufukcelik\source\repos\2021-YBS-GorselProgramlama\Ders02\Ders02\bin\Debug\netcoreapp3.1\Ders02.exe
+C:\Users\ufukcelik\source\repos\2021-YBS-GorselProgramlama\Ders02\Ders02\bin\Debug\netcoreapp3.1\Ders02.deps.json
+C:\Users\ufukcelik\source\repos\2021-YBS-GorselProgramlama\Ders02\Ders02\bin\Debug\netcoreapp3.1\Ders02.runtimeconfig.json
+C:\Users\ufukcelik\source\repos\2021-YBS-GorselProgramlama\Ders02\Ders02\bin\Debug\netcoreapp3.1\Ders02.runtimeconfig.dev.json
+C:\Users\ufukcelik\source\repos\2021-YBS-GorselProgramlama\Ders02\Ders02\bin\Debug\netcoreapp3.1\Ders02.dll
+C:\Users\ufukcelik\source\repos\2021-YBS-GorselProgramlama\Ders02\Ders02\bin\Debug\netcoreapp3.1\Ders02.pdb
+C:\Users\ufukcelik\source\repos\2021-YBS-GorselProgramlama\Ders02\Ders02\obj\Debug\netcoreapp3.1\Ders02.csprojAssemblyReference.cache
+C:\Users\ufukcelik\source\repos\2021-YBS-GorselProgramlama\Ders02\Ders02\obj\Debug\netcoreapp3.1\Ders02.Form1.resources
+C:\Users\ufukcelik\source\repos\2021-YBS-GorselProgramlama\Ders02\Ders02\obj\Debug\netcoreapp3.1\Ders02.csproj.GenerateResource.cache
+C:\Users\ufukcelik\source\repos\2021-YBS-GorselProgramlama\Ders02\Ders02\obj\Debug\netcoreapp3.1\Ders02.AssemblyInfoInputs.cache
+C:\Users\ufukcelik\source\repos\2021-YBS-GorselProgramlama\Ders02\Ders02\obj\Debug\netcoreapp3.1\Ders02.AssemblyInfo.cs
+C:\Users\ufukcelik\source\repos\2021-YBS-GorselProgramlama\Ders02\Ders02\obj\Debug\netcoreapp3.1\Ders02.csproj.CoreCompileInputs.cache
+C:\Users\ufukcelik\source\repos\2021-YBS-GorselProgramlama\Ders02\Ders02\obj\Debug\netcoreapp3.1\Ders02.dll
+C:\Users\ufukcelik\source\repos\2021-YBS-GorselProgramlama\Ders02\Ders02\obj\Debug\netcoreapp3.1\Ders02.pdb
+C:\Users\ufukcelik\source\repos\2021-YBS-GorselProgramlama\Ders02\Ders02\obj\Debug\netcoreapp3.1\Ders02.genruntimeconfig.cache
