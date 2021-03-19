@@ -1,0 +1,150 @@
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\Hafta14.exe.config
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\Hafta14.exe
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\Hafta14.pdb
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\x64\Debug\Hafta14.Properties.Resources.resources
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\x64\Debug\Hafta14.csproj.GenerateResource.cache
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\x64\Debug\Hafta14.csproj.CoreCompileInputs.cache
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\x64\Debug\Hafta14.exe
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\x64\Debug\Hafta14.pdb
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\NorthWind.mdf
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\NorthWind_log.ldf
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\EnvDTE.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\stdole.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\Microsoft.MSXML.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\x64\Debug\Hafta14.csprojAssemblyReference.cache
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\x64\Debug\Hafta14.Form1.resources
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\x64\Debug\RdlCompile.cache
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\x64\Debug\RdlCompile.compiled
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\x64\Debug\Hafta14.csproj.CopyComplete
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\x64\Debug\Hafta14.Form2.resources
+C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\x64\Debug\Hafta14.Form3.resources
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\NorthWind.mdf
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\NorthWind_log.ldf
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\Hafta14.exe.config
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\Hafta14.exe
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\Hafta14.pdb
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\EnvDTE.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\stdole.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\Microsoft.MSXML.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\obj\x64\Debug\Hafta14.csprojAssemblyReference.cache
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\obj\x64\Debug\Hafta14.Form1.resources
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\obj\x64\Debug\Hafta14.Form2.resources
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\obj\x64\Debug\Hafta14.Form3.resources
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\obj\x64\Debug\Hafta14.Properties.Resources.resources
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\obj\x64\Debug\Hafta14.csproj.GenerateResource.cache
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\obj\x64\Debug\RdlCompile.cache
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\obj\x64\Debug\RdlCompile.compiled
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\obj\x64\Debug\Hafta14.csproj.CoreCompileInputs.cache
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\obj\x64\Debug\Hafta14.csproj.CopyComplete
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\obj\x64\Debug\Hafta14.exe
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\hafta14\Hafta14\obj\x64\Debug\Hafta14.pdb

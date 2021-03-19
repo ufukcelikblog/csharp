@@ -1,0 +1,20 @@
+C:\Users\ufukcelik\source\repos\Hafta11\Hafta11\bin\Debug\Hafta11.exe.config
+C:\Users\ufukcelik\source\repos\Hafta11\Hafta11\bin\Debug\Hafta11.exe
+C:\Users\ufukcelik\source\repos\Hafta11\Hafta11\bin\Debug\Hafta11.pdb
+C:\Users\ufukcelik\source\repos\Hafta11\Hafta11\obj\Debug\Hafta11.Form1.resources
+C:\Users\ufukcelik\source\repos\Hafta11\Hafta11\obj\Debug\Hafta11.Properties.Resources.resources
+C:\Users\ufukcelik\source\repos\Hafta11\Hafta11\obj\Debug\Hafta11.csproj.GenerateResource.cache
+C:\Users\ufukcelik\source\repos\Hafta11\Hafta11\obj\Debug\Hafta11.csproj.CoreCompileInputs.cache
+C:\Users\ufukcelik\source\repos\Hafta11\Hafta11\obj\Debug\Hafta11.exe
+C:\Users\ufukcelik\source\repos\Hafta11\Hafta11\obj\Debug\Hafta11.pdb
+C:\Users\ufukcelik\source\repos\Hafta11\Hafta11\obj\Debug\Hafta11.csprojAssemblyReference.cache
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta11\Hafta11\bin\Debug\Hafta11.exe.config
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta11\Hafta11\bin\Debug\Hafta11.exe
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta11\Hafta11\bin\Debug\Hafta11.pdb
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta11\Hafta11\obj\Debug\Hafta11.csprojAssemblyReference.cache
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta11\Hafta11\obj\Debug\Hafta11.Form1.resources
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta11\Hafta11\obj\Debug\Hafta11.Properties.Resources.resources
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta11\Hafta11\obj\Debug\Hafta11.csproj.GenerateResource.cache
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta11\Hafta11\obj\Debug\Hafta11.csproj.CoreCompileInputs.cache
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta11\Hafta11\obj\Debug\Hafta11.exe
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta11\Hafta11\obj\Debug\Hafta11.pdb

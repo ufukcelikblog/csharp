@@ -1,0 +1,20 @@
+C:\Users\ufukcelik\source\repos\Hafta7\Hafta7\bin\Debug\Hafta7.exe.config
+C:\Users\ufukcelik\source\repos\Hafta7\Hafta7\bin\Debug\Hafta7.exe
+C:\Users\ufukcelik\source\repos\Hafta7\Hafta7\bin\Debug\Hafta7.pdb
+C:\Users\ufukcelik\source\repos\Hafta7\Hafta7\obj\Debug\Hafta7.csprojAssemblyReference.cache
+C:\Users\ufukcelik\source\repos\Hafta7\Hafta7\obj\Debug\Hafta7.Form1.resources
+C:\Users\ufukcelik\source\repos\Hafta7\Hafta7\obj\Debug\Hafta7.Properties.Resources.resources
+C:\Users\ufukcelik\source\repos\Hafta7\Hafta7\obj\Debug\Hafta7.csproj.GenerateResource.cache
+C:\Users\ufukcelik\source\repos\Hafta7\Hafta7\obj\Debug\Hafta7.csproj.CoreCompileInputs.cache
+C:\Users\ufukcelik\source\repos\Hafta7\Hafta7\obj\Debug\Hafta7.exe
+C:\Users\ufukcelik\source\repos\Hafta7\Hafta7\obj\Debug\Hafta7.pdb
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta7\Hafta7\bin\Debug\Hafta7.exe.config
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta7\Hafta7\bin\Debug\Hafta7.exe
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta7\Hafta7\bin\Debug\Hafta7.pdb
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta7\Hafta7\obj\Debug\Hafta7.csprojAssemblyReference.cache
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta7\Hafta7\obj\Debug\Hafta7.Form1.resources
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta7\Hafta7\obj\Debug\Hafta7.Properties.Resources.resources
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta7\Hafta7\obj\Debug\Hafta7.csproj.GenerateResource.cache
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta7\Hafta7\obj\Debug\Hafta7.csproj.CoreCompileInputs.cache
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta7\Hafta7\obj\Debug\Hafta7.exe
+C:\Users\ucelik\Google Drive\DersNotlari\YBS\2019-2020\GorselProgramlama\Hafta7\Hafta7\obj\Debug\Hafta7.pdb

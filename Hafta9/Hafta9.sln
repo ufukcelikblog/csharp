@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta9", "Hafta9\Hafta9.csproj", "{222A8180-5535-4A6B-9372-D74DD9D19C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{222A8180-5535-4A6B-9372-D74DD9D19C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222A8180-5535-4A6B-9372-D74DD9D19C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222A8180-5535-4A6B-9372-D74DD9D19C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222A8180-5535-4A6B-9372-D74DD9D19C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22A7B340-E995-4C00-8533-DB451A71028A}
+	EndGlobalSection
+EndGlobal
