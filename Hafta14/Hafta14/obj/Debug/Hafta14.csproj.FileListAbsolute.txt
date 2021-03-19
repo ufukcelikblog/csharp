@@ -1,9 +1,0 @@
-C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\Debug\Hafta14.exe.config
-C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\Debug\Hafta14.exe
-C:\Users\ucelik\source\repos\Hafta14\Hafta14\bin\Debug\Hafta14.pdb
-C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\Debug\Hafta14.csprojAssemblyReference.cache
-C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\Debug\Hafta14.Properties.Resources.resources
-C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\Debug\Hafta14.csproj.GenerateResource.cache
-C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\Debug\Hafta14.csproj.CoreCompileInputs.cache
-C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\Debug\Hafta14.exe
-C:\Users\ucelik\source\repos\Hafta14\Hafta14\obj\Debug\Hafta14.pdb
