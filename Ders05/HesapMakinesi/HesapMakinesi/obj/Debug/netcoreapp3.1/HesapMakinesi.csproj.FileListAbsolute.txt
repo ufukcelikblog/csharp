@@ -1,0 +1,15 @@
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.exe
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.deps.json
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.runtimeconfig.json
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.runtimeconfig.dev.json
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.dll
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\HesapMakinesi\HesapMakinesi\bin\Debug\netcoreapp3.1\HesapMakinesi.pdb
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.csprojAssemblyReference.cache
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.Form1.resources
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.AssemblyInfo.cs
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.dll
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.pdb
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\HesapMakinesi\HesapMakinesi\obj\Debug\netcoreapp3.1\HesapMakinesi.genruntimeconfig.cache

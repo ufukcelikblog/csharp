@@ -1,0 +1,17 @@
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\bin\Debug\netcoreapp3.1\Ders04.exe
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\bin\Debug\netcoreapp3.1\Ders04.deps.json
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\bin\Debug\netcoreapp3.1\Ders04.runtimeconfig.json
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\bin\Debug\netcoreapp3.1\Ders04.runtimeconfig.dev.json
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\bin\Debug\netcoreapp3.1\Ders04.dll
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\bin\Debug\netcoreapp3.1\Ders04.pdb
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\obj\Debug\netcoreapp3.1\Ders04.csprojAssemblyReference.cache
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\obj\Debug\netcoreapp3.1\Ders04.Form1.resources
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\obj\Debug\netcoreapp3.1\Ders04.Properties.Resources.resources
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\obj\Debug\netcoreapp3.1\Ders04.csproj.GenerateResource.cache
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\obj\Debug\netcoreapp3.1\Ders04.AssemblyInfoInputs.cache
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\obj\Debug\netcoreapp3.1\Ders04.AssemblyInfo.cs
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\obj\Debug\netcoreapp3.1\Ders04.csproj.CoreCompileInputs.cache
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\obj\Debug\netcoreapp3.1\Ders04.dll
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\obj\Debug\netcoreapp3.1\Ders04.pdb
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\obj\Debug\netcoreapp3.1\Ders04.genruntimeconfig.cache
+C:\Users\ucelik\Google Drive\DersNotlari\2021-YBS-GorselProgramlama\Ders04\Ders04\obj\Debug\netcoreapp3.1\Ders04.FormSaat.resources
